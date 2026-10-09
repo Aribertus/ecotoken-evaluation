@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the article below."
+title: "Ecotoken: evaluation code and data"
+authors:
+  - family-names: Carlini
+    given-names: Roberto
+    affiliation: "BB-Smile Srl"
+  - family-names: Pareschi
+    given-names: Remo
+    affiliation: "Stake Lab, University of Molise"
+  - family-names: Salzano
+    given-names: Francesco
+    affiliation: "Stake Lab, University of Molise"
+  - family-names: Testa
+    given-names: Benedetto
+    affiliation: "Stake Lab, University of Molise"
+license: MIT
+repository-code: "https://github.com/Aribertus/ecotoken-evaluation"
+preferred-citation:
+  type: article
+  title: "A Multi-Asset Architecture for Environmental Externality Tokenization: Design and Implementation in the Ecotoken Platform"
+  authors:
+    - family-names: Carlini
+      given-names: Roberto
+    - family-names: Pareschi
+      given-names: Remo
+    - family-names: Salzano
+      given-names: Francesco
+    - family-names: Testa
+      given-names: Benedetto
+  journal: "Frontiers in Blockchain"
+  year: 2026
+  status: submitted

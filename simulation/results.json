@@ -1,0 +1,493 @@
+{
+ "pv_scenarios": [
+  {
+   "go_price": 0.3,
+   "fee": 0.02,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 16460.0,
+   "go_share_pct": 0.3325252525252525,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 208447.83541660197,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 46.34226407823599
+  },
+  {
+   "go_price": 0.3,
+   "fee": 0.05,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 15650.0,
+   "go_share_pct": 0.31616161616161614,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 197853.05540849455,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 46.35126407823599
+  },
+  {
+   "go_price": 0.3,
+   "fee": 0.1,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 14300.0,
+   "go_share_pct": 0.28888888888888886,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 180195.08872831613,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 46.36626407823599
+  },
+  {
+   "go_price": 1.0,
+   "fee": 0.02,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 78200.0,
+   "go_share_pct": 1.5797979797979798,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 1016005.5115900915,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 45.65626407823599
+  },
+  {
+   "go_price": 1.0,
+   "fee": 0.05,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 75500.0,
+   "go_share_pct": 1.5252525252525253,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 980689.5782297347,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 45.68626407823599
+  },
+  {
+   "go_price": 1.0,
+   "fee": 0.1,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 71000.0,
+   "go_share_pct": 1.4343434343434343,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 921829.6892958079,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 45.736264078236
+  },
+  {
+   "go_price": 2.0,
+   "fee": 0.02,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 166400.0,
+   "go_share_pct": 3.3616161616161615,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 2169659.3346950784,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 44.676264078235995
+  },
+  {
+   "go_price": 2.0,
+   "fee": 0.05,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 161000.0,
+   "go_share_pct": 3.2525252525252526,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 2099027.4679743648,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 44.736264078236
+  },
+  {
+   "go_price": 2.0,
+   "fee": 0.1,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 152000.0,
+   "go_share_pct": 3.0707070707070705,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 1981307.6901065093,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 44.83626407823599
+  },
+  {
+   "go_price": 5.0,
+   "fee": 0.02,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 431000.0,
+   "go_share_pct": 8.707070707070708,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 5630620.804010037,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 41.73626407823599
+  },
+  {
+   "go_price": 5.0,
+   "fee": 0.05,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 417500.0,
+   "go_share_pct": 8.434343434343434,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 5454041.137208253,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 41.886264078235996
+  },
+  {
+   "go_price": 5.0,
+   "fee": 0.1,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 395000.0,
+   "go_share_pct": 7.97979797979798,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 5159741.692538612,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 42.136264078235996
+  }
+ ],
+ "rec_scenarios": [
+  {
+   "carbon_price": 3.0,
+   "plastic_price": 200.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 23999.999999999993,
+   "plastic_net_yr": 1503000.0,
+   "carbon_net_per_t": 2.3999999999999995,
+   "total_net_per_t": 152.7,
+   "npv": 10196294.29618359
+  },
+  {
+   "carbon_price": 3.0,
+   "plastic_price": 400.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 23999.999999999993,
+   "plastic_net_yr": 3023000.0,
+   "carbon_net_per_t": 2.3999999999999995,
+   "total_net_per_t": 304.7,
+   "npv": 20395618.022574592
+  },
+  {
+   "carbon_price": 3.0,
+   "plastic_price": 800.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 23999.999999999993,
+   "plastic_net_yr": 6063000.0,
+   "carbon_net_per_t": 2.3999999999999995,
+   "total_net_per_t": 608.7,
+   "npv": 40794265.475356594
+  },
+  {
+   "carbon_price": 6.34,
+   "plastic_price": 200.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 71595.0,
+   "plastic_net_yr": 1503000.0,
+   "carbon_net_per_t": 7.1595,
+   "total_net_per_t": 157.4595,
+   "npv": 10515660.620366208
+  },
+  {
+   "carbon_price": 6.34,
+   "plastic_price": 400.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 71595.0,
+   "plastic_net_yr": 3023000.0,
+   "carbon_net_per_t": 7.1595,
+   "total_net_per_t": 309.4595,
+   "npv": 20714984.34675721
+  },
+  {
+   "carbon_price": 6.34,
+   "plastic_price": 800.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 71595.0,
+   "plastic_net_yr": 6063000.0,
+   "carbon_net_per_t": 7.1595,
+   "total_net_per_t": 613.4595,
+   "npv": 41113631.79953921
+  },
+  {
+   "carbon_price": 15.0,
+   "plastic_price": 200.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 195000.0,
+   "plastic_net_yr": 1503000.0,
+   "carbon_net_per_t": 19.5,
+   "total_net_per_t": 169.8,
+   "npv": 11343718.215402579
+  },
+  {
+   "carbon_price": 15.0,
+   "plastic_price": 400.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 195000.0,
+   "plastic_net_yr": 3023000.0,
+   "carbon_net_per_t": 19.5,
+   "total_net_per_t": 321.8,
+   "npv": 21543041.94179358
+  },
+  {
+   "carbon_price": 15.0,
+   "plastic_price": 800.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 195000.0,
+   "plastic_net_yr": 6063000.0,
+   "carbon_net_per_t": 19.5,
+   "total_net_per_t": 625.8,
+   "npv": 41941689.39457558
+  }
+ ],
+ "rec_size": [
+  {
+   "throughput": 1000,
+   "n_share": 1,
+   "vcu_yr": 1500.0,
+   "plastic_units_yr": 800.0,
+   "carbon_net_yr": -6340.5,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": -6.3405,
+   "total_net_per_t": -6.3405,
+   "npv": -67545.27110998824
+  },
+  {
+   "throughput": 1000,
+   "n_share": 10,
+   "vcu_yr": 1500.0,
+   "plastic_units_yr": 800.0,
+   "carbon_net_yr": 7159.5,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 7.1595,
+   "total_net_per_t": 7.1595,
+   "npv": 45540.82777572129
+  },
+  {
+   "throughput": 2000,
+   "n_share": 1,
+   "vcu_yr": 3000.0,
+   "plastic_units_yr": 1600.0,
+   "carbon_net_yr": 2319.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 1.1595,
+   "total_net_per_t": 1.1595,
+   "npv": -9439.321235854783
+  },
+  {
+   "throughput": 2000,
+   "n_share": 10,
+   "vcu_yr": 3000.0,
+   "plastic_units_yr": 1600.0,
+   "carbon_net_yr": 15819.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 7.9095,
+   "total_net_per_t": 7.9095,
+   "npv": 103646.77764985476
+  },
+  {
+   "throughput": 5000,
+   "n_share": 1,
+   "vcu_yr": 7500.0,
+   "plastic_units_yr": 4000.0,
+   "carbon_net_yr": 28297.5,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 5.6595,
+   "total_net_per_t": 5.6595,
+   "npv": 164878.5283865456
+  },
+  {
+   "throughput": 5000,
+   "n_share": 10,
+   "vcu_yr": 7500.0,
+   "plastic_units_yr": 4000.0,
+   "carbon_net_yr": 41797.5,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 8.3595,
+   "total_net_per_t": 8.3595,
+   "npv": 277964.62727225514
+  },
+  {
+   "throughput": 10000,
+   "n_share": 1,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 71595.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 7.1595,
+   "total_net_per_t": 7.1595,
+   "npv": 455408.2777572129
+  },
+  {
+   "throughput": 10000,
+   "n_share": 10,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 85095.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 8.5095,
+   "total_net_per_t": 8.5095,
+   "npv": 568494.3766429225
+  },
+  {
+   "throughput": 20000,
+   "n_share": 1,
+   "vcu_yr": 30000.0,
+   "plastic_units_yr": 16000.0,
+   "carbon_net_yr": 158190.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 7.9095,
+   "total_net_per_t": 7.9095,
+   "npv": 1036467.7764985475
+  },
+  {
+   "throughput": 20000,
+   "n_share": 10,
+   "vcu_yr": 30000.0,
+   "plastic_units_yr": 16000.0,
+   "carbon_net_yr": 171690.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 8.5845,
+   "total_net_per_t": 8.5845,
+   "npv": 1149553.8753842572
+  },
+  {
+   "throughput": 50000,
+   "n_share": 1,
+   "vcu_yr": 75000.0,
+   "plastic_units_yr": 40000.0,
+   "carbon_net_yr": 417975.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 8.3595,
+   "total_net_per_t": 8.3595,
+   "npv": 2779646.2727225516
+  },
+  {
+   "throughput": 50000,
+   "n_share": 10,
+   "vcu_yr": 75000.0,
+   "plastic_units_yr": 40000.0,
+   "carbon_net_yr": 431475.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 8.6295,
+   "total_net_per_t": 8.6295,
+   "npv": 2892732.371608261
+  }
+ ],
+ "pv_yield": [
+  {
+   "yield_": 1400.0,
+   "energy_y1_mwh": 84000.0,
+   "energy_rev_y1": 4620000.0,
+   "go_net_y1": 69800.0,
+   "go_share_pct": 1.5108225108225108,
+   "npv_base": 5667027.804914817,
+   "npv_uplift": 906133.7189134266,
+   "lcoe": 49.84214495198786,
+   "breakeven_ppa": 49.017425798110004
+  },
+  {
+   "yield_": 1500.0,
+   "energy_y1_mwh": 90000.0,
+   "energy_rev_y1": 4950000.0,
+   "go_net_y1": 75500.0,
+   "go_share_pct": 1.5252525252525253,
+   "npv_base": 9983419.660069525,
+   "npv_uplift": 980689.5782297347,
+   "lcoe": 46.519335288521994,
+   "breakeven_ppa": 45.68626407823599
+  },
+  {
+   "yield_": 1800.0,
+   "energy_y1_mwh": 108000.0,
+   "energy_rev_y1": 5940000.0,
+   "go_net_y1": 92600.0,
+   "go_share_pct": 1.5589225589225588,
+   "npv_base": 22932595.225533664,
+   "npv_uplift": 1204357.1561786607,
+   "lcoe": 38.766112740435,
+   "breakeven_ppa": 37.91355339853
+  }
+ ],
+ "rec_plastic_only": [
+  {
+   "plastic_price": 200.0,
+   "npv": 10060252.342608996
+  },
+  {
+   "plastic_price": 400.0,
+   "npv": 20259576.068999995
+  },
+  {
+   "plastic_price": 800.0,
+   "npv": 40658223.521781996
+  }
+ ],
+ "rec_carbon_only": [
+  {
+   "carbon_price": 3.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 23999.999999999993,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 2.3999999999999995,
+   "total_net_per_t": 2.3999999999999995,
+   "npv": 136041.9535745947
+  },
+  {
+   "carbon_price": 6.34,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 71595.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 7.1595,
+   "total_net_per_t": 7.1595,
+   "npv": 455408.2777572129
+  },
+  {
+   "carbon_price": 15.0,
+   "vcu_yr": 15000.0,
+   "plastic_units_yr": 8000.0,
+   "carbon_net_yr": 195000.0,
+   "plastic_net_yr": 0.0,
+   "carbon_net_per_t": 19.5,
+   "total_net_per_t": 19.5,
+   "npv": 1283465.8727935823
+  }
+ ],
+ "monte_carlo": {
+  "pv": {
+   "npv_uplift_p10_p50_p90": [
+    322851.50545868446,
+    1273322.2285667788,
+    4201226.474845777
+   ],
+   "go_share_pct_p10_p50_p90": [
+    0.4796693395227243,
+    1.8721662310598766,
+    6.144436725823164
+   ],
+   "frac_base_npv_negative": 0.00815,
+   "frac_of_negative_rescued_by_go": 0.5030674846625767
+  },
+  "rec": {
+   "npv_carbon_only_p10_p50_p90": [
+    301707.26121551474,
+    577937.656593354,
+    983384.2709064519
+   ],
+   "npv_carbon_plus_plastic_p10_p50_p90": [
+    16156382.58712266,
+    23402206.516227722,
+    32971651.5335704
+   ],
+   "frac_carbon_only_negative": 0.0
+  }
+ }
+}
